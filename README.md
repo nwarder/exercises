@@ -10,7 +10,7 @@ The goal of this challenge is to create a Markdown powered blog.
 Schedule
 --------
 
-You have two hours to design and design/build as much as you can. Feel free to
+You have two hours to design and build as much as you can. Feel free to
 leverage any technologies/libraries/frameworks you'd like.
 
 After two hours, you will demonstrate what you have, your thought process, as
