@@ -14,13 +14,17 @@ After two hours, you will demonstrate the following:
 Project Requirements
 --------------------
 
-1. Provide ability to create and modify blog posts as [Markdown](http://daringfireball.net/projects/markdown/syntax)
-2. Blog should have at least two pages:
+* Provide ability to create and modify blog posts as [Markdown](http://daringfireball.net/projects/markdown/syntax)
+* Blog should have at least two pages:
   * One main page to list titles of available blog posts
   * One to view a specifc blog post in its entirety
-3. Should be easily deployable to the Internet
-4. Source code must be hosted on github
+* Should be easily deployable to the Internet
+* Source code must be hosted on github
 
+#### Bonus points for thinking about:
+* Design/CSS
+* Data Storage
+* Blog Post Metadata
 
 What We're Looking For
 ----------------------
