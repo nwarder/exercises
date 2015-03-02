@@ -19,21 +19,21 @@ Project Requirements
   * One main page to list titles of available blog posts
   * One to view a specifc blog post in its entirety
 * Should be easily deployable to the Internet
-* Source code must be hosted on github
+* Source code must be hosted on github (doesn't have to be public)
 
 #### Bonus points for thinking about:
-* Design/CSS
 * Data Storage
-* Blog Post Metadata
+* Design/CSS
+* Post Metadata
 
 What We're Looking For
 ----------------------
 
-This is intentionally an ambitious project for the given time; we don't expect you to complete it. 
+This is an intentionally ambitious project for the given time; we don't expect you to complete it. 
 
-We do expect you to accomplish as much as you can and to learn what it would take to complete the project.
+We do expect you to accomplish as much as you can and to learn what it would take to finish it.
 
-We're primarily interested in learning how you think about technology and code, and how you approach large problems.
+We're primarily interested in how you think about technology and code, how you approach large problems, and your ability to dive into new projects face first.
 
 You will be assessed on the following:
 * How much you accompished in the given time
@@ -52,4 +52,5 @@ You May...
 You May Not...
 --------------
 * Use an existing blogging platform, open source or otherwise (Wordpress, etc).
+* Enlist the help of others outside of the Sendwithus team.
 * Work outside of Spacestation.
