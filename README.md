@@ -52,5 +52,5 @@ You May...
 You May Not...
 --------------
 * Use an existing blogging platform, open source or otherwise (WordPress, etc).
-* Enlist the help of others outside of the Sendwithus team. (Remember: questions are still okay)
+* Enlist the help of others outside of the Sendwithus team. (Remember: questions are okay — we don't bite)
 * Work outside of Spacestation.
