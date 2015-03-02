@@ -15,7 +15,7 @@ Project Requirements
 --------------------
 
 1. Provide ability to create and modify blog posts in [Markdown](http://daringfireball.net/projects/markdown/syntax)
-2. 2. Blog should have at least two pages:
+2. Blog should have at least two pages:
   * One main page to list titles of available blog posts
   * One to view a specifc blog post in its entirety
 3. Should be easily deployable to the Internet
