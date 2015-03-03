@@ -1,4 +1,4 @@
-Sendwithus Coding Challenge: Markdown Blog
+Markdown Blog
 ==========================================
 
 You will be creating a [Markdown](http://daringfireball.net/projects/markdown/) powered blog engine.
@@ -51,6 +51,6 @@ You May...
 
 You May Not...
 --------------
-* Use an existing blogging platform, open source or otherwise (WordPress, etc).
+* Use a hosted blogging platform, open source or otherwise (Medium, Ghost, Wordpress.com).
 * Enlist the help of others outside of the Sendwithus team. (Remember: questions are okay — we don't bite)
 * Work outside of Spacestation.
