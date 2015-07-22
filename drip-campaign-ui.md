@@ -22,6 +22,7 @@ Project Requirements
   * Update steps
   * Delete steps
 * Must be serializable/deserializable to/from JSON
+  * The format is up to you
 * Data Models (feel free to add to these)
   * Drip Campaign
     * Name (ex: My Onboarding Campaign)
