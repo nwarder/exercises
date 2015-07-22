@@ -16,19 +16,21 @@ After two hours, you will demonstrate the following:
 Project Requirements
 --------------------
 
-* Build a UI to build a drip campaign and attach one to many *steps*
-* Drip Campaign properties
-  * Name
-* Drip Campaign Step properties
-  * Time delay (ex: send in 5 days)
-  * Email template (ex: Welcome Email Template)
-    * Templates will be pulled from an external data source
-    * Template object consists of a Name and an Id
+* Create a frontend to build a drip campaign and attach one to many *steps*
 * Must be interactive
   * Create steps
   * Update steps
   * Delete steps
 * Must be serializable/deserializable to/from JSON
+* Data Models (feel free to add to these)
+  * Drip Campaign
+    * Name
+  * Drip Campaign
+    * Time delay (ex: send in 5 days)
+    * Email template (ex: Welcome Email Template)
+      * Templates will be pulled from https://s3.amazonaws.com/swu-challenges/templates.json
+      * Template object consists of a Name and an Id
+
 
 
 What We're Looking For
