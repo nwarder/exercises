@@ -1,14 +1,14 @@
 Drip Campaign UI
 ================
 
-You will be creating an interactive UI for building a drip campaign.
+You will be creating an interactive UI for building a Drip Campaign.
 
 You have 90 minutes to design and build as much as you can. Feel free to 
 leverage any technologies, libraries, frameworks you'd like; in fact we 
 encourage you to use anything that will let you build faster.
 
 After 90 minutes, you will demonstrate the following:
-* What you have accomplishedt
+* What you have accomplished
 * Your thought process during design and build
 * What it would take to finish what you started
 
@@ -16,7 +16,7 @@ After 90 minutes, you will demonstrate the following:
 Project Requirements
 --------------------
 
-* Create a frontend to build a drip campaign and attach one to many *steps*
+* Create a frontend to build a "Drip Campaign", connecting one to many "Drip Campaign Steps"
 * Must be interactive
   * Create steps
   * Update steps
@@ -44,10 +44,10 @@ large problems, and your ability to dive into new projects face first.
 
 You will be assessed on the following:
 
-* How much you accomplished in the given time
-* Ability to design and plan the technical requirements
+* How much you accomplish in the given time
+* Your ability to design and plan the technical requirements
 * Use of existing tools and technologies
-* Ability to communicate what you have designed and built
+* Your ability to communicate what you have designed and built
 
 
 You May...
