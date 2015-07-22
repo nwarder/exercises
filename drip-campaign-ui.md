@@ -27,8 +27,7 @@ Project Requirements
     * Name (ex: My Onboarding Campaign)
   * Drip Campaign Step
     * Time delay (ex: 5 days)
-    * Email template (ex: Welcome Email)
-      * Pulled from https://s3.amazonaws.com/swu-challenges/templates.json
+    * Email template (chosen from https://s3.amazonaws.com/swu-challenges/templates.json)
 
 
 
