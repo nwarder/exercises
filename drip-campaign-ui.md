@@ -3,12 +3,12 @@ Drip Campaign UI
 
 You will be creating an interactive UI for building a drip campaign.
 
-You have two hours to design and build as much as you can. Feel free to 
+You have 90 minutes to design and build as much as you can. Feel free to 
 leverage any technologies, libraries, frameworks you'd like; in fact we 
 encourage you to use anything that will let you build faster.
 
-After two hours, you will demonstrate the following:
-* What you have accomplished
+After 90 minutes, you will demonstrate the following:
+* What you have accomplishedt
 * Your thought process during design and build
 * What it would take to finish what you started
 
