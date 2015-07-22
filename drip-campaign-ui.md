@@ -25,7 +25,7 @@ Project Requirements
 * Data Models (feel free to add to these)
   * Drip Campaign
     * Name
-  * Drip Campaign
+  * Drip Campaign Step
     * Time delay (ex: 5 days)
     * Email template (ex: Welcome Email)
       * Pulled from https://s3.amazonaws.com/swu-challenges/templates.json
