@@ -24,7 +24,7 @@ Project Requirements
 * Must be serializable/deserializable to/from JSON
 * Data Models (feel free to add to these)
   * Drip Campaign
-    * Name
+    * Name (ex: My Onboarding Campaign)
   * Drip Campaign Step
     * Time delay (ex: 5 days)
     * Email template (ex: Welcome Email)
