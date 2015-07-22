@@ -16,10 +16,19 @@ After two hours, you will demonstrate the following:
 Project Requirements
 --------------------
 
-* Provide the ability to create and modify *steps*
-  * A step consists of a time delay and an email template to send
+* Build a UI to build a drip campaign and attach one to many *steps*
+* Drip Campaign properties
+  * Name
+* Drip Campaign Step properties
+  * Time delay (ex: send in 5 days)
+  * Email template (ex: Welcome Email Template)
+    * Templates will be pulled from an external data source
+    * Template object consists of a Name and an Id
 * Must be interactive
-  * Create, Update, Delete campaign steps
+  * Create steps
+  * Update steps
+  * Delete steps
+* Must be serializable/deserializable to/from JSON
 
 
 What We're Looking For
