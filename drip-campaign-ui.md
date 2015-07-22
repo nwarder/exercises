@@ -26,7 +26,7 @@ Project Requirements
   * Drip Campaign
     * Name
   * Drip Campaign
-    * Time delay (ex: send in 5 days)
+    * Time delay (ex: 5 days)
     * Email template (ex: Welcome Email Template)
       * Templates will be pulled from https://s3.amazonaws.com/swu-challenges/templates.json
       * Template object consists of a Name and an Id
