@@ -29,7 +29,7 @@ Project Requirements
   * Drip Campaign Step
     * Time delay (ex: 5 days)
     * Email template (chosen from https://s3.amazonaws.com/swu-challenges/templates.json)
-
+* Email templates list must be loaded via network request
 
 
 What We're Looking For
