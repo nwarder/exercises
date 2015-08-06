@@ -1,7 +1,7 @@
 #+TITLE: Intro to the sendwithus API
 
 * Task
-You will be writing a technical introduction on the basics and how to use sendwithus' API. Use the existing help/API docs as a reference. An outline is provided for you. Feel free to modify it. 
+You will be writing a technical introduction on the basics and how to use sendwithus' API. Use the existing help/API docs as a reference. An outline is provided for you — feel free to modify it. 
 
 * Requirements
 - 1000 - 2000 words
