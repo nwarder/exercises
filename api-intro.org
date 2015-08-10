@@ -33,7 +33,7 @@ You will be writing a technical introduction on the basics and how to use sendwi
 
 
 * You May…
-- Link words to Wikipedia if you feel they will help
+- Link and reference to Wikipedia if you feel it will help
 - Research how other companies write and outline their API documentation
 
 * You May Not…
