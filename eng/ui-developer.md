@@ -29,7 +29,9 @@ Getting Started
 ---------------
 
 Get started by [creating an account here](https://app.sendwithus.com/signup)
-and logging into your account. Typical Sendwithus users get started by [creating a Template](https://www.sendwithus.com/docs/templating) and [making an API call to send an email](https://www.sendwithus.com/docs/api#sending-emails), so that is a good workflow to start with.
+and logging into your account. 
+
+Typical Sendwithus users get started by [creating a Template](https://www.sendwithus.com/docs/templating) and [making an API call to send an email](https://www.sendwithus.com/docs/api#sending-emails), so that is a good workflow to start with.
 
 If you need help understanding what Sendwithus is or how specific features work, do not hesitate to ask Brad or Dylan for help!
 
