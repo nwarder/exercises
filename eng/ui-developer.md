@@ -50,13 +50,12 @@ You will be assessed on the following:
 
 You May...
 ----------
-* Use any languages, libraries, or frameworks you'd like
+* Use any tools, libraries, or frameworks at your disposal
 * Use the internet freely
 * Ask us any questions you'd like (just interrupt one of us)
 
 
 You May Not...
 --------------
-* Use an existing hosted solution
 * Enlist the help of others outside of the Sendwithus team. Remember, questions are okay!
 * Work outside of the Sendwithus office
