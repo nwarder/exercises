@@ -1,4 +1,4 @@
-Sendwithus Coding Challenges
-============================
+Sendwithus Coding Exercises
+===========================
 
 See other files.
