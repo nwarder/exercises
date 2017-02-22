@@ -6,14 +6,14 @@ You will be analyzing and improving a high-throughput email queuing system (how 
 #### Overview
 
 A long, long time ago, Sendwithus had an email pipeline that failed to scale in a few different ways. We'd like you to
-assess the bottlenecks of that system and discuss possible solutions in detail with our engineering team.
+assess the limitations of that system and discuss possible solutions in detail with our engineering team.
 
 Feel free to leverage any tools, technologies, and/or frameworks you're comfortable with;
 in fact we encourage you to use anything that will help you work faster.
 
 After the allotted time, you will demonstrate the following:
 
-* Where you think bottlenecks existed in the initial system
+* Where you think limitations existed in the initial system
 * Possible solutions to the suggested questions
 * What it would take to implement those solutions
 * Any side effects of implementation
@@ -22,6 +22,30 @@ After the allotted time, you will demonstrate the following:
 This is an intentionally ambitious project for the time given. __We do not expect you to complete it__.
 
 We do expect you to accomplish as much as you can, and to treat this like a real-world engineering scenario.
+
+What We're Looking For
+----------------------
+
+We're primarily interested in how you think about technology, system architecture, how you approach
+large problems, and your ability to dive fearlessly into new challenges.
+
+You will be assessed on the following:
+
+* Ability to analyze, reason about, and design complex software systems
+* Knowledge of high-throughput web development and the surrounding best practices
+* Ability to constructively discuss a problem space and possible solutions
+
+
+You May...
+----------
+* Use the internet freely
+* Ask us any questions you'd like (just interrupt one of us)
+
+
+You May Not...
+--------------
+* Enlist the help of others outside of the Sendwithus team. Remember, questions are okay!
+* Work outside of the Sendwithus office
 
 
 Inital Design
@@ -105,28 +129,3 @@ problems for this system. Failing to deliver an email is unacceptable, as is del
 #### Questions
 * How would you guarantee at most-once delivery?
 * What effect would your solution have on system performance?
-
-
-What We're Looking For
-----------------------
-
-We're primarily interested in how you think about technology, system architecture, how you approach
-large problems, and your ability to dive fearlessly into new challenges.
-
-You will be assessed on the following:
-
-* Ability to analyze, design, and evaluate software systems
-* Knowledge of high-throughput web development and the surrounding best practices
-* Ability to constructively discuss a problem space and possible solutions
-
-
-You May...
-----------
-* Use the internet freely
-* Ask us any questions you'd like (just interrupt one of us)
-
-
-You May Not...
---------------
-* Enlist the help of others outside of the Sendwithus team. Remember, questions are okay!
-* Work outside of the Sendwithus office
