@@ -96,4 +96,12 @@ is a requirement.
 * How would you detect and prevent abusive traffic?
 
 
-Problem:
+Problem: Guaranteed Once Delivery
+---------------------------------
+
+All queueing systems promise a) at-most-once delivery, or b) at-least-once delivery. Both heuristics cause
+problems for this system. Failing to deliver an email is unacceptable, as is delivering an email twice (or more).
+
+#### Questions
+* How would you guarantee at most-once delivery?
+* What effect would your solution have on system performance?
