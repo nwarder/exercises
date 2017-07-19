@@ -94,4 +94,4 @@ You May Not...
 --------------
 * Use an existing software solution
 * Enlist the help of others outside of the Sendwithus team. Remember, questions are okay!
-* Work outside of the Sendwithus office
+
